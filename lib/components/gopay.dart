@@ -101,6 +101,9 @@ class Gopay extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
+                    const SizedBox(
+                      height: 10,
+                    ),
                     Container(
                       width: 24,
                       height: 24,
