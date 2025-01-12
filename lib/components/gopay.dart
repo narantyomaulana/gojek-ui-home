@@ -15,7 +15,7 @@ class Gopay extends StatelessWidget {
         top: 15,
       ),
       child: Container(
-        height: 98,
+        height: 100,
         decoration: BoxDecoration(
             color: blue1, borderRadius: BorderRadius.circular(15)),
         child: Row(
